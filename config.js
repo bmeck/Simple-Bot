@@ -37,13 +37,13 @@ module.exports = function(){
 		"auth" : {
 			"twitter" : {
 				//twitter pin based OAuth will require pin entry on each restart
-				"api-key": "...",
-				"api-secret": "...",
+				"api-key": "h5vpDPS2riT1vn4imgPDQw",
+				"api-secret": "7ikegRCnIblG3PG4rMWpT8nk5gQ1MaR2DAZTt9GeDM",
 				
 				//if this is entered it will be tried before using any other method
 				//it allows a bypass of the pin based login since it does not expire
-				"access-token":  "...",
-				"access-token-secret": "..."
+				"access-token":  "158885951-swGnRFT7fyJVOdMFAI5KyXfdFaqfcqXVjaW4ylw0",
+				"access-token-secret": "9XBA248WHdfwpgVNd0Q9uaukT1aR0GiKKQj4dyrE7U"
 			},
 			"freenode" : {
 				"nick" : "nodejitsubot",
